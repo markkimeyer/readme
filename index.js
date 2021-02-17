@@ -68,7 +68,7 @@ function init(questions) {
 
     const newFile = mdFile(data);
     // const title = `${data.tile}.md`;
-    writeToFile("README", newFile)
+    writeToFile("README.md", newFile)
 })
 }
 
