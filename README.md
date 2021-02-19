@@ -15,10 +15,13 @@
   
 
   ## Installation
-  npm -i
+  To download dependencices and modules: npm i
 
   ## Usage
-  To be used in node. 
+  From the command line of the terminal, type "node index.js" to run the app. Answer the prompts, which include the title, description, installation, testing, usage, license, and contact information. 
+
+  ![Screenshot](Images/Screenshot.jpg)
+
 
   ## Demo
   Demo video is published on YouTube [here](https://youtu.be/2FI_x8P0UrE).
